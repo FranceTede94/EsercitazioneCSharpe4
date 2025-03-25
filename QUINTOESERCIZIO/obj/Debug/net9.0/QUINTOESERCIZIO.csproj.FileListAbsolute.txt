@@ -1,0 +1,14 @@
+C:\Users\f.tedesco\Desktop\QUINTOESERCIZIO\QUINTOESERCIZIO\bin\Debug\net9.0\QUINTOESERCIZIO.exe
+C:\Users\f.tedesco\Desktop\QUINTOESERCIZIO\QUINTOESERCIZIO\bin\Debug\net9.0\QUINTOESERCIZIO.deps.json
+C:\Users\f.tedesco\Desktop\QUINTOESERCIZIO\QUINTOESERCIZIO\bin\Debug\net9.0\QUINTOESERCIZIO.runtimeconfig.json
+C:\Users\f.tedesco\Desktop\QUINTOESERCIZIO\QUINTOESERCIZIO\bin\Debug\net9.0\QUINTOESERCIZIO.dll
+C:\Users\f.tedesco\Desktop\QUINTOESERCIZIO\QUINTOESERCIZIO\bin\Debug\net9.0\QUINTOESERCIZIO.pdb
+C:\Users\f.tedesco\Desktop\QUINTOESERCIZIO\QUINTOESERCIZIO\obj\Debug\net9.0\QUINTOESERCIZIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f.tedesco\Desktop\QUINTOESERCIZIO\QUINTOESERCIZIO\obj\Debug\net9.0\QUINTOESERCIZIO.AssemblyInfoInputs.cache
+C:\Users\f.tedesco\Desktop\QUINTOESERCIZIO\QUINTOESERCIZIO\obj\Debug\net9.0\QUINTOESERCIZIO.AssemblyInfo.cs
+C:\Users\f.tedesco\Desktop\QUINTOESERCIZIO\QUINTOESERCIZIO\obj\Debug\net9.0\QUINTOESERCIZIO.csproj.CoreCompileInputs.cache
+C:\Users\f.tedesco\Desktop\QUINTOESERCIZIO\QUINTOESERCIZIO\obj\Debug\net9.0\QUINTOESERCIZIO.dll
+C:\Users\f.tedesco\Desktop\QUINTOESERCIZIO\QUINTOESERCIZIO\obj\Debug\net9.0\refint\QUINTOESERCIZIO.dll
+C:\Users\f.tedesco\Desktop\QUINTOESERCIZIO\QUINTOESERCIZIO\obj\Debug\net9.0\QUINTOESERCIZIO.pdb
+C:\Users\f.tedesco\Desktop\QUINTOESERCIZIO\QUINTOESERCIZIO\obj\Debug\net9.0\QUINTOESERCIZIO.genruntimeconfig.cache
+C:\Users\f.tedesco\Desktop\QUINTOESERCIZIO\QUINTOESERCIZIO\obj\Debug\net9.0\ref\QUINTOESERCIZIO.dll
